@@ -1,2 +1,3 @@
-./venv
-ddl.py
+venv
+__pycache__
+.idea
